@@ -6,7 +6,7 @@ import a4 from "../images/9.png";
 import a5 from "../images/10.png";
 import a6 from "../images/11.png";
 
-export default function Y() {
+export default function locations() {
   const locations = [
     {
       country: "UNITED STATES",
