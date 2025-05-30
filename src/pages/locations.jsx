@@ -1,12 +1,12 @@
 import { Phone, Mail, MapPin } from "lucide-react";
-import a1 from "../images/6.png";
-import a2 from "../images/7.png";
-import a3 from "../images/8.png";
-import a4 from "../images/9.png";
-import a5 from "../images/10.png";
-import a6 from "../images/11.png";
+import a1 from "../images/industry.png";
+import a2 from "../images/newyork.png";
+import a3 from "../images/marsielle.png";
+import a4 from "../images/industry2.png";
+import a5 from "../images/industry3.png";
+import a6 from "../images/melbourne.png";
 
-export default function Y() {
+export default function Locations() {
   const locations = [
     {
       country: "UNITED STATES",

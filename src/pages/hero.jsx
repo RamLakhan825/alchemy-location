@@ -1,9 +1,9 @@
 import { useState } from "react";
-import a1 from "../images/1.png";
-import a2 from "../images/2.png";
-import img3 from "../images/3.png";
-import img4 from "../images/4.png";
-import img5 from "../images/5.png";
+import a1 from "../images/logo.png";
+import a2 from "../images/homelocation.png";
+import img3 from "../images/pillet.png";
+import img4 from "../images/billet.png";
+import img5 from "../images/wirerods.png";
 import { ChevronDown, Search, Menu, X } from "lucide-react";
 
 export default function Hero() {
