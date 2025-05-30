@@ -6,7 +6,11 @@ import a4 from "../images/industry2.png";
 import a5 from "../images/industry3.png";
 import a6 from "../images/melbourne.png";
 
+<<<<<<< HEAD
 export default function Locations() {
+=======
+export default function locations() {
+>>>>>>> 906eafac7c28f2c7699c1868fced4f8447bfee15
   const locations = [
     {
       country: "UNITED STATES",
