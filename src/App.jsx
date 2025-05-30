@@ -1,7 +1,7 @@
-import X from "./pages/x"
+import map from "./pages/globalMap"
 import Hero from "./pages/hero"
 import Start from "./pages/start"
-import Y from "./pages/y"
+import locations from "./pages/locations"
 
 function App() {
   
@@ -9,8 +9,8 @@ function App() {
     <>
       <Start/>
       <Hero/>
-      <X/>
-      <Y/>
+      <map/>
+      <locations/>
     </>
   )
 }
